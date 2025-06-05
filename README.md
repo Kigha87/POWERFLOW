@@ -2,8 +2,8 @@
 
 ## TABLE OF CONTENT
 
-- [Overview](#overview).
-- [Objective](#objective).
+- [Overview](#overview)
+- [Objective](#objective)
 - [Sources](#sources)
 - [Project Steps](#project-steps)
 - [Loading Data To Snowflake](#loading-data-to-snowflake)
