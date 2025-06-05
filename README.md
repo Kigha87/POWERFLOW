@@ -1,12 +1,12 @@
 # POWERFLOW (preparing data for ROI analysis dashboard)
 
 TABLE OF CONTENT
-1-[Overview](#overview).
-2-[Objective](#objective).
-3-[Sources](#sources)
-4-[Project Steps](#project_steps)
-5-[Loading Data To Snowflake](#loading_data_to_snowflake)
-6-[Link To Dbt Docs](#link_to_dbt_docs)
+1.[Overview](#overview).
+2.[Objective](#objective).
+3.[Sources](#sources)
+4.[Project Steps](#project_steps)
+5.[Loading Data To Snowflake](#loading_data_to_snowflake)
+6.[Link To Dbt Docs](#link_to_dbt_docs)
 
 
 # OVERVIEW
