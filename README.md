@@ -2,12 +2,12 @@
 
 ## TABLE OF CONTENT
 
--[Overview](#overview).
--[Objective](#objective).
--[Sources](#sources)
--[Project Steps](#project_steps)
--[Loading Data To Snowflake](#loading_data_to_snowflake)
--[Link To Dbt Docs](#link_to_dbt_docs)
+- [Overview](#overview).
+- [Objective](#objective).
+- [Sources](#sources)
+- [Project Steps](#project-steps)
+- [Loading Data To Snowflake](#loading-data-to-snowflake)
+- [Link To Dbt Docs](#link-to-dbt-docs)
 
 
 ## OVERVIEW
