@@ -1,6 +1,7 @@
 # POWERFLOW (preparing data for ROI analysis dashboard)
 
-TABLE OF CONTENT
+## TABLE OF CONTENT
+
 -[Overview](#overview).
 -[Objective](#objective).
 -[Sources](#sources)
@@ -9,15 +10,15 @@ TABLE OF CONTENT
 -[Link To Dbt Docs](#link_to_dbt_docs)
 
 
-# OVERVIEW
+## OVERVIEW
 
  This project models data fom the data source into a set of cleaned and transformed tables for analysis.
 
-# OBJECTIVE
+## OBJECTIVE
 
   Determine which marketing channel and/or campaign ID demonstrates the highest ROI at specific days throughout a user's lifetime.
 
-# SOURCES
+## SOURCES
 
 ```YAML
 sources:
@@ -31,7 +32,7 @@ sources:
         - name: transactions
 ```
 
-# PROJECT STEPS
+## PROJECT STEPS
 
 To prepare the data for marketing dashboard with ROI calculation:
 
@@ -41,7 +42,7 @@ To prepare the data for marketing dashboard with ROI calculation:
 4. Building the ROI table, helps to combine all the data into a ROI table that includes information on users channel, campaigns, costs, LTV, and ROI for specific lifetime days.
 
 
-# LOADING DATA TO SNOWFLAKE
+## LOADING DATA TO SNOWFLAKE
 
 This process is divided into 2 groups and the different files are loaded manually
 
@@ -55,7 +56,7 @@ This process is divided into 2 groups and the different files are loaded manuall
     - campaign costs (campaign_costs.csv)
 
 
-# LINK TO DBT DOCS
+## LINK TO DBT DOCS
 
 Link:
 https://sz175.us1.dbt.com/accounts/70471823466784/develop/70471823868403/docs/index.html#!/overview/my_new_project
