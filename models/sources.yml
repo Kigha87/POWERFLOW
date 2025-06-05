@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: POWERFLOW
+    database: POWERFLOW 
+    schema: public
+    tables: 
+      - name: registrations
+      - name: appsflyer
+      - name: google_ads
+      - name: transactions
