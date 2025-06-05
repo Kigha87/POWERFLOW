@@ -60,3 +60,11 @@ This process is divided into 2 groups and the different files are loaded manuall
 
 Link:
 https://sz175.us1.dbt.com/accounts/70471823466784/develop/70471823868403/docs/index.html#!/overview/my_new_project
+
+
+<img width="1644" alt="Screenshot 2025-06-05 at 18 56 57" src="https://github.com/user-attachments/assets/a6726284-2767-4c16-8d5a-c6f8c280ab41" />
+
+
+
+
+
